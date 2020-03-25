@@ -4,7 +4,7 @@ module.exports = {
     'Users',
     [
       {
-        userId: 1,
+        userId: '1',
         fullName: 'Bolton',
         email: 'bolton@gmail.com',
         gender: 'Male',
@@ -14,7 +14,7 @@ module.exports = {
         deletedAt: null,
       },
       {
-        userId: 2,
+        userId: '2',
         fullName: 'Benkim',
         email: 'benkim@gmail.com',
         gender: 'Male',
@@ -24,7 +24,7 @@ module.exports = {
         deletedAt: null,
       },
       {
-        userId: 3,
+        userId: '3',
         fullName: 'Jane Doe',
         email: 'janedoe@gmail.com',
         gender: 'Female',
